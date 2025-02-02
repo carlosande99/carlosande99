@@ -5,7 +5,7 @@ Soy un desarrollador Fullstack con sólidos conocimientos en frontend, creando i
 
 ### 🛠️ Tecnologías y Herramientas
 - Lenguajes: JS, PHP, JAVA
-- Frameworks y Librerías: React, Node.js 
+- Frameworks: React, Node.js 
 - Bases de Datos: MySQL 
 - Herramientas: Git, GitHub 
 
