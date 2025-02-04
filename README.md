@@ -11,18 +11,16 @@
 
 
 	
-## <picture><img src = "" width = 50px></picture> **Sobre mí**
-
-<picture> <img align="right" src="" width = 250px></picture>
+## **Sobre mí**
 
 <br>
 
-- 
-- 
-- 
-- Página Personal [link]()
+- 🎮 Apasionado de los videojuegos.
+- 🔍 Siempre buscando aprender algo nuevo y mejorar mis habilidades. 
+- 🧑‍🎓 Graduado en una FP de Grado Superior en Aplicaciones Web.
+<!--- Página Personal [link]()-->
 
-<br><br>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -111,7 +109,7 @@
 <br>
 <br>
 
-## <b> Contáctame!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> Contáctame!</b>
 <br>
 <div align='left'>
 
@@ -146,15 +144,5 @@
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
----
 
-<br>
-
-Credit: [Carlos Sandemetrio](https://github.com/carlosande99)
