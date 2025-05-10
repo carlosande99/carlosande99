@@ -45,6 +45,7 @@
   ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
   ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+  ![Astro](https://img.shields.io/badge/Astro-%23FF5D01?style=for-the-badge&logo=astro&logoColor=white)
 
    
 
